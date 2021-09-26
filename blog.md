@@ -3,16 +3,26 @@ By: Michael Chinn
 
 ---
 ### This is where I will be posting all of my daily / weekly progress and developments while I am attending the **Awesome Inc. Coding Bootcamp**.
+<hr>
 <details>
 <summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Onboarding Overview.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>What I got out of it. (personal)</i></summary>
 <br>
-<img alt='The Path Less Traveled' src='./img/falling-forward-blog-02.jpg' width='100%'>
+<img alt='The Path Less Traveled' src='./img/failing-forward-blog-02.jpg' width='100%'>
 <hr>
 
-- What is the number one thing that held you back this week? Why?
-- What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
-- How does In-Person Bootcamp compare to Remote Onboarding?
-- What is your "Why"?
+## What is the number one thing that held you back this week? Why?
+The number one thing that held me back this week was time management.
+
+We had three projects this week and I was only able to finish one of them, the blog design. I focused on it because I felt that it was the most important, as well as it was the project that I was most familiar with. I should have allocated enough time to get a minimum viable product out for each of the three projects.
+
+Next week I will manage my time and efforts better so that I can complete all of my projects. I need to remember that no project will ever be "perfect" so I need to fulfill the requirements of it and move on to the next.
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+## How does In-Person Bootcamp compare to Remote Onboarding?
+
+## What is your "Why"?
+
 </details>
 
 <hr>
