@@ -5,6 +5,9 @@ By: Michael Chinn
 ### This is where I will be posting all of my daily / weekly progress and developments while I am attending the **Awesome Inc. Coding Bootcamp**.
 <details>
 <summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Onboarding Overview.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>What I got out of it. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/falling-forward-blog-02.jpg' width='100%'>
+<hr>
 
 - What is the number one thing that held you back this week? Why?
 - What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
@@ -15,6 +18,9 @@ By: Michael Chinn
 <hr>
 <details>
 <summary>Week 4&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/17/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Onboarding Overview.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>What I got out of it. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/what-i-got.jpg' width='100%'>
+<hr>
 
 ## What was helpful during Onboarding working remotely?
 The most helpful thing about working remotely during onboarding was the sense of freedom. Working remotely allows you to work from where ever you happen to be. The advent of cellular tethering and WiFi make it so that you can wor from almost anywhere. 
@@ -30,6 +36,9 @@ Learning pseudo code helped keep me from overthinking things. It allowed me to l
 <hr>
 <details>
 <summary>Week 3&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/16/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Don't Overthink Things.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>Keep it simple stupid. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/overthink-blog-02.jpg' width='100%'>
+<hr>
 
 ## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
 
