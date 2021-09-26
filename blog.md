@@ -5,7 +5,7 @@ By: Michael Chinn
 ### This is where I will be posting all of my daily / weekly progress and developments while I am attending the **Awesome Inc. Coding Bootcamp**.
 <hr>
 <details>
-<summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Onboarding Overview.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>What I got out of it. (personal)</i></summary>
+<summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Understanding Failing Forward.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>We rise by lifting others. (personal)</i></summary>
 <br>
 <img alt='The Path Less Traveled' src='./img/failing-forward-blog-02.jpg' width='100%'>
 <hr>
