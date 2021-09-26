@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+:root{
+    --primary:#efefef;
+    --secondary:#aaaaaa;
+    --tertiary: #666666;
+    --btn-primary: #333333;
+}
+
+body{
+    background: #1a1a1a; /* Old browsers */
+    background: -moz-linear-gradient(top,  #1a1a1a 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #1a1a1a 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #1a1a1a 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a1a1a', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
+header{
+    position: relative;
+    overflow: hidden;
+    padding-top: .5rem;
+}
+header h1{
+    position: relative;
+    top: 4rem;
+    font-size: 4.5rem;
+    z-index: 2;
+}
+header .title:hover h1{
+    cursor: pointer;
+    text-shadow: 0 0 5px #efefef;
+}
+header .bg-elm-01{
+    position:absolute;
+
+    background: #262626; /* Old browsers */
+    background: -moz-linear-gradient(top,  #262626 0%, #111111 50%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #262626 0%,#111111 50%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #262626 0%,#111111 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#262626', endColorstr='#111111',GradientType=0 ); /* IE6-9 */
+
+    top: 50%;
+    left:0;
+    z-index: -1;
+    border-radius: 50%;
+}
+h1,.nav,footer{
+    font-family: 'Cinzel', serif;
+}
+.hide{
+    display:none !important;
+}
+.nav-link.active{
+    color: var(--primary);
+}
+.nav-link{
+    color: var(--secondary);
+}
+.nav .dot{
+    cursor:default;
+    color:var(--tertiary);
+}
+.v-flip{
+    transform: scaleY(-1);
+    opacity: .1;
+    top: 1rem;
+    user-select: none;
+    z-index: 1;
+}
+.btn{
+    background-color: var(--btn-primary)!important;
+    color: var(--primary)!important;
+    font-family: 'Cinzel', serif!important;
+}
+.btn:hover{
+    background-color: #666666!important;
+}
+.cPanel{
+    background-color:transparent;
+    cursor: pointer;
+}
+.cPanel.active{
+    text-decoration: underline!important;
+}
