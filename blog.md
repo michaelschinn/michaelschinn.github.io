@@ -15,9 +15,12 @@ The number one thing that held me back this week was time management.
 
 We had three projects this week and I was only able to finish one of them, the blog design. I focused on it because I felt that it was the most important, as well as it was the project that I was most familiar with. I should have allocated enough time to get a minimum viable product out for each of the three projects.
 
+I have to say, though I could have done better at managing my time, the time I spent learning the ins-and-outs if bootstrap will prove invaluable for the future of me laying out and rapidly prototyping projects. Though I took a "loss" for the week, I feel like I have a new tool to utilize in the future that will lead to many "wins".
+
 Next week I will manage my time and efforts better so that I can complete all of my projects. I need to remember that no project will ever be "perfect" so I need to fulfill the requirements of it and move on to the next.
 
 ## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+In a word...state. This concept of state controlling makes me very exited to learn more. Just the little bit I have seen has spawned all kinds of possibillities in my imagination. 
 
 ## How does In-Person Bootcamp compare to Remote Onboarding?
 
