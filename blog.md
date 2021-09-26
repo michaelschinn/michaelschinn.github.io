@@ -20,9 +20,20 @@ I have to say, though I could have done better at managing my time, the time I s
 Next week I will manage my time and efforts better so that I can complete all of my projects. I need to remember that no project will ever be "perfect" so I need to fulfill the requirements of it and move on to the next.
 
 ## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
-In a word...state. This concept of state controlling makes me very exited to learn more. Just the little bit I have seen has spawned all kinds of possibillities in my imagination. 
+In a word ... state. This concept of state controlling makes me very excited to learn more. Just the little bit I have seen has spawned all kinds of possibillities in my imagination. From UIs to video games, the benefits of controlling the state of your application seem endless.
+
+I envision creating apps in which I can keep a detailed log of the history of user interactions with said app through the use of a state controller. I can see it being the linking mechanism through which we connect the front end of a system to it's back end. At the risk of being redundant I'll say it again... the benefits seem endless.
+
+I can't wait until we delv into this concept more, so that I can better flesh out the gaps in my understanding when it comes to... state.
 
 ## How does In-Person Bootcamp compare to Remote Onboarding?
+I love In-Person bootcamp... period.
+
+Remote onboarding was an amazing process, through which, many of the foundational pieces that made the first week so successfull were laid. Even so, the expierience of working with the instructors and other bootcampers in-person created certain bonds that are hard to consolodate into words... But I will do my best to try.
+
+The comradery that is created through this process of helping each other trudge through our individual difficulties, creates a sort of mutual reliance senario, in which, the instructors allow the bootcampers to assist each other with certain small issues, which frees them up to handle big issues. The result of this seems to be, that a sort of fellowship is created among the cohort. As well as a deep level of respect for the instructor.
+
+That's my anecdotal expierience though. I think I will discuss this with my fellow bootcampers to see if they are perceiving the same thing, or if this is just a case of, I see what I want to see. Either way, I like what I'm seeing.
 
 ## What is your "Why"?
 
