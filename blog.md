@@ -1,22 +1,216 @@
-### Mike's Technical Blog
+### Mike's Blog
 By: Michael Chinn
 
 ---
 ### This is where I will be posting all of my daily / weekly progress and developments while I am attending the **Awesome Inc. Coding Bootcamp**.
+<hr>
+<details>
+<summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Understanding Failing Forward.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>We rise by lifting others. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/failing-forward-blog-02.jpg' width='100%'>
+<hr>
 
-| *8/26/2021* | **Git Over Here!** | *My First Week at Awesome Inc.* |
-|---|---|---|
+## What is the number one thing that held you back this week? Why?
+The number one thing that held me back this week was time management.
+
+We had three projects this week and I was only able to finish one of them, the blog design. I focused on it because I felt that it was the most important, as well as it was the project that I was most familiar with. I should have allocated enough time to get a minimum viable product out for each of the three projects.
+<hr>
+
+![Time management](https://woc.aises.org/sites/default/files/styles/image730x495/public/Nov2018-Professional-Illo-Photo-BLOGPOST-FNL.jpg?itok=MnHq3bfQ)
+<hr>
+I have to say, though I could have done better at managing my time, the time I spent learning the ins-and-outs if bootstrap will prove invaluable for the future of me laying out and rapidly prototyping projects. Though I took a "loss" for the week, I feel like I have a new tool to utilize in the future that will lead to many "wins".
+
+Next week I will manage my time and efforts better so that I can complete all of my projects. I need to remember that no project will ever be "perfect" so I need to fulfill the requirements of it and move on to the next.
+<hr>
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+In a word ... state. This concept of state controlling makes me very excited to learn more. Just the little bit I have seen has spawned all kinds of possibillities in my imagination. From UIs to video games, the benefits of controlling the state of your application seem endless.
+<hr>
+
+![Ideas](https://martech.org/wp-content/ml-loads/2015/11/idea_1920-800x600.jpg)
+<hr>
+
+I envision creating apps in which I can keep a detailed log of the history of user interactions with said app through the use of a state controller. I can see it being the linking mechanism through which we connect the front end of a system to it's back end. At the risk of being redundant I'll say it again... the benefits seem endless.
+
+I can't wait until we delv into this concept more, so that I can better flesh out the gaps in my understanding when it comes to... state.
+<hr>
+
+## How does In-Person Bootcamp compare to Remote Onboarding?
+I love In-Person bootcamp... period.
+<hr>
+
+![Computer Lab](https://soimagescdn.azureedge.net/productimage/learningenvironment/ArticleHeader/computer-lab-hero.jpg)
+<hr>
+Remote onboarding was an amazing process, through which, many of the foundational pieces that made the first week so successfull were laid. Even so, the expierience of working with the instructors and other bootcampers in-person created certain bonds that are hard to consolodate into words... But I will do my best to try.
+
+The comradery that is created through this process of helping each other trudge through our individual difficulties, creates a sort of mutual reliance senario, in which, the instructors allow the bootcampers to assist each other with certain small issues, which frees them up to handle big issues. The result of this seems to be, that a sort of fellowship is created among the cohort. As well as a deep level of respect for the instructor.
+
+That's my anecdotal expierience though. I think I will discuss this with my fellow bootcampers to see if they are perceiving the same thing, or if this is just a case of, I see what I want to see. Either way, I like what I'm seeing.
+<hr>
+
+## What is your "Why"?
+I'm currently living in a trasitional living house. Most people don't know what that is so I will have to tell a little bit of my stroy to elaborate...
+
+Before January 12 of this year(2021) I was homeless. I ended up homeless because I made a series of bad descisions for my life and effectivly "Reaped What I Sowed".
+
+The previous 14 years before that I was married with two boys. Things didn't work out between their mother and I so we separated at the end of 2019. She took our boys up to Vermont, and I stayed in Florida.
+
+After a while I moved to Kentucky to be with an old childhood "sweetheart" which resulted with me ending up homeless on the streets of Lexington. That was my wakeup call. My mind and priorities were messed up and I knew it. I needed to do something to change the game, because my old playbook wasn't working.
+
+This was when I dedicated my life to God for the last time. I changed the direction that I was walking so that I would walk out the sermon on the mount and not merely read and recite it. I would live it, everyday.
+
+As I did this something amazing began to happen. Day by day it was as if the universe itself was aligning to pour it blessings into my life. Being homeless I witnessed many horrible an terrible things, the ugliest side of humanity, and at the same time I witenssed the kindest acts of love and selflessness that I had ever seen. Throug it all I only witnessed the ugliness with my eyes, yet it never touched me.
+
+Everyday, God lead me a little closer to where he wanted me to be. Eventually I ended up in the "Potter's House" of the Lexington Rescue Mission. I talked with the fellow residents about how I used to be a designer/front-end developer for a number of years, but fell away from it. I wanted to get back into it but it had been 6 years since I had left, and alot had changed. I began looking into online courses on becoming a full-stack developer, but I was not able to juggle the courses while working full-time.
+
+That was when a buddy of mine saw and ad for the Awesome Inc Bootcamp. I took down the website, prayed and meditated about it, then applied. I was approoved and I took that as a sign from God that this is apart of the path I'm to walk, to transition from doing the wrong thing, to doing what's right. To do what's right by God... The right thing for my children... The right thing for myself... 
+
+That's my "Why" for attending the bootcamp, and I feel blessed. 
+<hr>
+
+<img alt='Freedom' src='https://img.freepik.com/free-photo/human-hand-chain-is-absent-get-free_35691-2.jpg?size=626&ext=jpg' width='100%'>
+
+</details>
+
+<hr>
+<details>
+<summary>Week 4&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/17/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Onboarding Overview.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>What I got out of it. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/what-i-got.jpg' width='100%'>
+<hr>
+
+## What was helpful during Onboarding working remotely?
+The most helpful thing about working remotely during onboarding was the sense of freedom. Working remotely allows you to work from where ever you happen to be. The advent of cellular tethering and WiFi make it so that you can wor from almost anywhere. 
+<hr>
+
+## What hindered your progress during Onboarding?
+My progress was mostly hindered by me overthinking the task that was at hand. The distractions that come naturally anytime you work from home also played a role.
+<hr>
+
+## How did you overcome challenges during Onboarding?
+Learning pseudo code helped keep me from overthinking things. It allowed me to list out everything that needed to be done so that I could execute said list and get the MVP finished quicker.
+
+</details>
+
+<hr>
+<details>
+<summary>Week 3&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/16/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Don't Overthink Things.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>Keep it simple stupid. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/overthink-blog-02.jpg' width='100%'>
+<hr>
+
+## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+
+### HTML
+The role of HTML is to provide a markup system to structure and display content for web page.
+
+```
+<article>
+    <h3 id='title'>Title Text</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</article>
+```
+
+This stucture is the framework upon which the CSS and JavaScript will act upon.
+
+### CSS
+The role of CSS is to apply style to the elements of an HTML document.
+
+```
+:root{
+    --primary-color: rgba(200, 200, 200, .75);
+    --font-family-01: Arial, Helvetica, sans-serif;
+    --font-size-01: 1.5rem;
+}
+
+article{
+    font-family: var(--font-family-01)
+    color: var(--primary-color);
+}
+
+h3{
+    font-size: var(--font-size-01);
+}
+```
+The code block above makes use of storing variables in the ```:root``` element of the DOM. They can then be called by other elements located further down the DOM tree. This makes it so that we can define a value one time and apply it multiple times. If later we want to change, for instance, the primary color all across our site, we simply change the ```--primary-color``` variable's value from ```rgba(123, 75, 200, .75)``` to ```#ffffff``` and the change will be applied globally.
+
+### JavaScript
+The role of JavaScript is to provide functionallity to the elements of an HTML page.
+
+```
+let title = document.getElementById('title');
+title.addEventListener('click', () => {
+    title.textContent("You clicked the title and changed it's content.")
+});
+```
+The HTML, CSS and JavaScript all work together to create the UI/UX or User Interface / User Experience. UI/UX is key to providing your user with not only a useful web page but one that will be tailored for them to, utilize with maximum efficiency as well as being pleasing to their eyes.
+<hr>
+
+## What are some objects that your blog incorporates?
+My blog incorporates sections consisiting of multiple 'Title' and 'Content' elements.
+<hr>
+
+## What are your thoughts on pseudo coding?
+I can tell that pseudo coding will be a valuable tool for me. It will help me to keep focused on my current task because it will provide me with a structure from which I can write my application or web page. 
+<hr>
+
+## What do I want to keep doing?
+I want to keep stiving to learn new things and implement them into my toolkit. I love that through these projects I am learning how to do a very wide scope of things.
+<hr>
+
+## What do I want to stop doing?
+I want to stop overthinking the task at hand. From going outside of the scope of the project when it is not the appropriate time to do that.
+<hr>
+
+## What do I want to write into my DNA and do forever?
+Concentrate on getting an MVP(mimimum viable product) out before you jump into everything that you "think would be good for the project".
+<hr>
+
+## What do we want to tell our "prior to Bootcamp" self?
+Stay open minded and allow your creativity to flow... but don't sacrifice too much efficiency for that creativivty.
+
+</details>
+<hr>
+<details>
+<summary>Week 2&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/3/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>The path less traveled.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>The struggle is good. (personal)</i></summary>
+<br>
+<img alt='The Path Less Traveled' src='./img/path-blog.jpg' width='100%'>
+<hr>
+
+## What is something you wish you could do but currently do not have the coding skills to accomplish?
+
+I **love** retro gaming! From the Atari 2600 to the Sony Playstation 2, I love it all. One thing that I wish that I could do is take a program like [RetroArch](https://www.retroarch.com/) and create an Html front-end for it. I have a sufficient amount skill in Photoshop, HTML5 and CSS3 to do it. Provided I have the time I could create some very nice transitions and tranformations to make it really "pop". The thing that stops me from putting in all of the front-end work is the back-end. 
+
+<img alt="RetroArch" src="https://www.retroarch.com/images/bg.png" width=100%>
+
+I would firstly need to have Retro-Arch installed on a server. Then it would need to be configured to that servers specifications. Next I would need to launch an instance of it for the user and stream the video output of the program to said user. Then I would need to receive streamed controller input from the user and feed it to their instance of the program. Last I would need to save the users progress to the server so they could continue where they left off the next time they instantiate an instance of the program. I don't know how to do any of that... but I would love to learn how.
+
+## What are you struggling with?
+
+Currently I am working on a stretch goal in which I take a markdown file and convert it to HTML using regular expressions. The issue I am currently having is wrapping all of the paragrapgs in `<p>` tags. At the moment it is wrapping everything in `<p>` tags. Admittantly I haven't had much time to address this problem as I have been doing my Sprint work and dealing with life. I am confident that this is just a challenge and not a blocker but if it turns into a blocker I will post a help request in our slack channel.
+
+## How do you solve a problem? What methods do you use to help yourself get unstuck?
+
+Firstly I will consult the instruction for the given task. Then if no resolution is found I will consult the documentation for the function/method/command that I am struggling with. If it is a logic problem I will spend some time thinking about the logic of what I am doing and try to address any logical fallacies that I may be commiting. If that yields nothing I will type a direct question into google and consult sites like [stackoverflow](https://stackoverflow.com/) and [reddit](https://www.reddit.com/). Lastly I will "phone-a-friend" and seek out someone with more expierience to learn what I can from them to resolve my issue.
+
+</details>
+<hr>
+<details>
+<summary>Week 1&nbsp;&nbsp;|&nbsp;&nbsp;<i>8/26/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Git Over Here!</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>My First Week at Awesome Inc. (technical)</i></summary>
 <br>
 <img alt='Git Over Here!' src='img/scorp-octodex-blog-02.jpg' width='100%'>
-
----
+<hr>
 This week I began the [**Awesome Inc Coding Bootcamp**](https://www.awesomeinc.org/bootcamp) and so far I'm very impressed! I learned about an online IDE called [CodeAnywhere](https://codeanywhere.com/), which is very akin to VS Code, save that it is written entirely in javascript (very cool), as well as receiving an extensive refresher on using [GitHub](https://github.com/)!
 
 I've used GitHub in the past when I was a front-end web developer, but never as in-depth as they are teaching me it can be utilized. As well as, I'm learning that the amount of things you can forget in 6 years is shocking.
 
-![6 years is a long time!](https://images.theconversation.com/files/286868/original/file-20190805-117861-1tte4c9.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6240%2C3120&q=45&auto=format&w=1356&h=668&fit=crop)<p align='center'>*6 years is a long time!*</p>
+<hr>
 
+![6 years is a long time!](https://images.theconversation.com/files/286868/original/file-20190805-117861-1tte4c9.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6240%2C3120&q=45&auto=format&w=1356&h=668&fit=crop)<hr><p align='center'>*6 years is a long time!*</p>
+
+<hr>
 The focus of this article will be to detail out what I have learned in regards to Git and GitHub.
+<hr>
 
 ## The Process of Utilizing GitHub
 
@@ -33,7 +227,7 @@ The focus of this article will be to detail out what I have learned in regards t
 - Make Changes, Add, Commit, Push, Wash Rinse and Repeat.
 - Execute a Pull Request on Your Content.
 - Merge your changes into the main branch.
-<br><br>
+<br><br><hr>
 
 ## Initialize Your Local Repository
 
@@ -199,16 +393,16 @@ Enter your username and password and that's it! You will just repeat this proces
 Next we shall dive into the process of taking the work performed in your dev branch and getting it to the main branch.
 
 ## Execute a Pull Request on Your Content.
- Now that we have pushed our content up to GitHub, we can create a pull request. With the pull request we can "Fetch from and integrate with another repository or a local branch" [*¹⁰*](https://git-scm.com/docs/git-pull). In other words you will pull the content from your dev branch to your main branch. This is done from the GitHub website.
+Now that we have pushed our content up to GitHub, we can create a pull request. With the pull request we can "Fetch from and integrate with another repository or a local branch" [*¹⁰*](https://git-scm.com/docs/git-pull). In other words you will pull the content from your dev branch to your main branch. This is done from the GitHub website.
 
- From here we can click on the compare an pull request button.
+From here we can click on the compare an pull request button.
 
- ![GitHub pull request](img/gitHub-pull.jpg)<p align="center">*GitHub pull request.*</p>
+![GitHub pull request](img/gitHub-pull.jpg)<p align="center">*GitHub pull request.*</p>
 
 ## Merge Your Changes Into the Main Branch.
 
 What's really **Awesome** is that in the past, I never learned to use the GitHub website beyond cloning repos and viewing files. The majority of my experience with it was through a CLI, so it was a real treat to learn the ins and outs of it.
 
 I thank God that I have access to all of the knowledge and experience of the instructors. I can tell that the Bootcamp is going to be a real game changer for me. :)
-
----
+</details>
+<hr>
