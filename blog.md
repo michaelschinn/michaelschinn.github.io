@@ -4,6 +4,14 @@ By: Michael Chinn
 ---
 ### This is where I will be posting all of my daily / weekly progress and developments while I am attending the **Awesome Inc. Coding Bootcamp**.
 <hr>
+
+What did you learn about that helped you understand the development process?
+
+
+What does it mean to develop good code?
+What does it mean to be a good developer?
+What is one thing that programmers hate doing?
+
 <details>
 <summary>Week 5&nbsp;&nbsp;|&nbsp;&nbsp;<i>9/24/2021</i>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Understanding Failing Forward.</b>&nbsp;&nbsp;|&nbsp;&nbsp;<i>We rise by lifting others. (personal)</i></summary>
 <br>
